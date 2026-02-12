@@ -191,7 +191,7 @@ By transforming raw event logs into clear, actionable metrics, this project demo
 
 ## Author
 
-**Richard Rivera Cartagena**  
-[(https://www.linkedin.com/in/richard-rivera-cartagena/)] | [(https://github.com/RichRC)]
+Richard Rivera Cartagena
+[LinkedIn](https://www.linkedin.com/in/richard-rivera-cartagena/) · [GitHub](https://github.com/RichRC)
 
 *This project was completed as part of a business analytics portfolio to demonstrate advanced Excel skills and analytical problem-solving capabilities.*
