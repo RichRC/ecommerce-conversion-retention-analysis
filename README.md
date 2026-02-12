@@ -191,7 +191,7 @@ By transforming raw event logs into clear, actionable metrics, this project demo
 
 ## Author
 
-**Your Name**  
-[Your LinkedIn Profile] | [Your Email] | [Your Portfolio Website]
+**Richard Rivera Cartagena**  
+[(https://www.linkedin.com/in/richard-rivera-cartagena/)] | [(https://github.com/RichRC)]
 
 *This project was completed as part of a business analytics portfolio to demonstrate advanced Excel skills and analytical problem-solving capabilities.*
